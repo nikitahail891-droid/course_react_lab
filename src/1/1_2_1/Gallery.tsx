@@ -1,13 +1,4 @@
 // Move me to Profile.tsx!
-export function Profile() {
-    return (
-      <img
-        src="AlanHart.jpg"
-        alt="Alan L. Hart"
-      />
-    );
-  }
-  
   export default function Gallery() {
     return (
       <section>
